@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Neither I not the code in this repository is affiliated with Threema GmbH in any way.
-> If you want to use the official Threema Gateway SDK please consult the [Threema Gateway API Documentation](https://gateway.threema.ch/en/developer/api) for reference._
+> If you want to use the official Threema Gateway SDK please consult the [Threema Gateway API Documentation](https://gateway.threema.ch/en/developer/api) for reference.
 
 > [!WARNING]
 > Threema strongly recommends to rely on their official sdks only as they have been tested extensively to ensure a proper
